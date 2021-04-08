@@ -17,6 +17,4 @@ Here are some ideas to get you started:
 
 [![gain-wyj's github stats](https://github-readme-stats.vercel.app/api?username=gain-wyj)](https://github.com/anuraghazra/github-readme-stats)
 
-[![gain-wyj's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=gain-wyj)](https://github.com/anuraghazra/github-readme-stats)
-
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gain-wyj&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
