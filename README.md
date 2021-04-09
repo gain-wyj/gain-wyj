@@ -4,7 +4,7 @@
 [![简书优秀作者](https://img.shields.io/badge/简书优秀作者-red.svg "简书优秀作者")](https://www.jianshu.com/u/6b7f673437d6 "简书优秀作者")
 [![小专栏](https://img.shields.io/badge/小专栏-red.svg "小专栏")](https://xiaozhuanlan.com/u/9725962319 "小专栏")
 ---
-<img align="right" alt="GIF" src="https://raw.githubusercontent.com/JoeyBling/JoeyBling/master/pic/pusheencode.gif" />
+<img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
 
 ### Hi I'm gain-wyj 👋
 
