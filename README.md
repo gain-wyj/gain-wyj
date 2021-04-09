@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi I'm gain-wyj 👋
+
+[![CSDN博客专家](https://img.shields.io/badge/CSDN博客专家-red.svg "CSDN博客专家")](https://blog.csdn.net/ywsydwsbn "CSDN博客专家")
 
 <!--
 **gain-wyj/gain-wyj** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
