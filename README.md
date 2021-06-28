@@ -1,7 +1,9 @@
 [![CSDN博客专家](https://img.shields.io/badge/CSDN博客专家-red.svg "CSDN博客专家")](https://blog.csdn.net/ywsydwsbn "CSDN博客专家")
+[![自搭博客网站](https://img.shields.io/badge/自搭博客网站-red.svg "自搭博客网站")](https://gain-wyj.cn/ "自搭博客网站")
 [![知乎](https://img.shields.io/badge/知乎-red.svg "知乎")](https://www.zhihu.com/people/meng-yan-95-51-48/posts "知乎")
 [![掘金](https://img.shields.io/badge/掘金-red.svg "掘金")](https://juejin.cn/user/2919910883998551 "掘金")
 [![简书优秀作者](https://img.shields.io/badge/简书优秀作者-red.svg "简书优秀作者")](https://www.jianshu.com/u/6b7f673437d6 "简书优秀作者")
+[![博客园](https://img.shields.io/badge/博客园-red.svg "博客园")](https://www.cnblogs.com/nhyq-wyj/ "博客园")
 [![小专栏](https://img.shields.io/badge/小专栏-red.svg "小专栏")](https://xiaozhuanlan.com/u/9725962319 "小专栏")
 ---
 <img align="right" alt="GIF" src="https://raw.githubusercontent.com/devSouvik/devSouvik/master/gif3.gif" width="500"/>
